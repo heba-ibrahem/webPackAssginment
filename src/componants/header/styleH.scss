@@ -1,0 +1,11 @@
+.img{
+    width:100%;
+}
+
+$myColor: rgb(255, 163, 163) ;
+header{
+    background-color: $myColor;
+    padding: 20px;
+    margin: 20px;
+    color: darkslategrey;
+}
